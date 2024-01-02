@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Machine Learning</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="static/style.css">
+</head>
+
+<body>
+    <div class="login-clean">
+        <form action="{{url_for('predict')}}" method="post">
+            <h4 class="title">Klasifikasi Judul Buku</h4>
+            <br>
+            <div class="form-group"><input class="form-control" type="text" name="judul" placeholder="Masukkan Judul Buku"></div>
+            <div class="form-group"><button class="btn btn-primary btn-block" type="submit">Klasifikasikan</button></div>
+
+            <h5 style="color: 	#0000FF;">Hasil Klasifikasi</h5>
+            <div class="form-group">
+                <h5 style="color:blueviolet"><br>{{prediction_text}}</h5>
+            </div>
+            <br>
+
+            <div>
+                <h5 class="title">Daftar Nomor Klasifikasi</h5>
+                <table class="tabel1">
+                    <tr>
+                        <th>No</th>
+                        <th>Nomor</th>
+                        <th>Jenis Klasifikasi</th>
+                        <th>Keterangan</th>          
+                    </tr>
+
+                    <tr>
+                        <td>1</td>
+                        <td>000</td>
+                        <td>Karya Umum</td>  
+                        <td>ilmu pengetahuan umum, komputer, bibliografi, ilmu perpustakaan, ensiklopedi umum, 
+organisasi umum, museum, jurnalisme surat kabar, kumpulan karya umum, naskah-naskah 
+dan buku-buku langka</td>                      
+                    </tr>
+
+                    <tr>
+                        <td>2</td>
+                        <td>100</td>
+                        <td>Filsafat dan Psikologi</td>   
+                        <td>filsafat, metafisika, epistemologi, fenomena paranormal, aliran filsafat khusus, psikologi, 
+kepribadian, etika, logika, filsafat kuno, filsafat barat dan modern.</td>                     
+                    </tr>
+
+                    <tr>
+                        <td>3</td>
+                        <td>200</td>
+                        <td>Agama</td>
+                        <td>agama, agama alam, alkitab, teologi kristen, moral kristen, teologi kebaktian, gereja kristen 
+setempat jemaat, teologi sosial kristen, sejarah gereja, denominasi, agama lain dan 
+perbandingan agama</td>                        
+                    </tr>
+
+                    <tr>
+                        <td>4</td>
+                        <td>300</td>
+                        <td>Ilmu Sosial</td> 
+                        <td>ilmu sosial, statistik, ilmu politik, ilmu ekonomi, ilmu hukum, administrasi negara, 
+perdagangan, komunikasi, pengangkutan, adat istiadat kebiasaan, dan etiket folkor</td>                       
+                    </tr>
+
+                    <tr>
+                        <td>5</td>
+                        <td>400</td>
+                        <td>Bahasa</td>   
+                        <td>bahasa linguistik, bahasa indonesia, bahasa inggris, bahasa jerman, bahasa perancis, bahasa 
+italia, bahasa spanyol, bahasa portugis, bahasa latin, bahasa yunani klasik, dan bahasa-bahasa 
+lain</td>                     
+                    </tr>
+
+                    <tr>
+                        <td>6</td>
+                        <td>500</td>
+                        <td>Ilmu Murni dan Alam</td>  
+                        <td>ilmu murni, matematika, astronomi, fisika, kimia, ilmu pengetahuan tentang bumi, 
+paleontologi, ilmu tentang kehidupan, ilmu tentang tumbuh-tumbuhan, dan ilmu tentang 
+hewan</td>                      
+                    </tr>
+
+                    <tr>
+                        <td>7</td>
+                        <td>600</td>
+                        <td>Ilmu Terapan dan Teknologi</td>     
+                        <td>teknologi, ilmu kedokteran, ilmu teknik, pertanian, kesejahteraan rumah tangga, manajemen, 
+teknologi kimia, pabrik-pabrik, pembuatan produk untuk penggunaan khusus, dan bangunan</td>                   
+                    </tr>
+
+                    <tr>
+                        <td>8</td>
+                        <td>700</td>
+                        <td>Kesenian, Hiburan dan Olahraga</td>    
+                        <td>kesenian, seni dekorasi, seni perkotaan dan pertamanan, arsitektur, seni plastik, seni pahat 
+patung, menggambar dan seni dekorasi, seni lukis dan lukisan, seni grafika, cetakan, fotografi 
+dan foto, musik, seni rekreasi dan pertunjukan</td>                  
+                    </tr>
+
+                    <tr>
+                        <td>9</td>
+                        <td>800</td>
+                        <td>Kesusasteraan</td> 
+                        <td>kesusasteraan, kesusasteraan indonesia, kesusasteraan inggris, kesusasteraan jerman, 
+kesusasteraan perancis, kesusasteraan spanyol, kesusasteraan portugis, kesusasteraan latin, 
+kesusasteraan yunani, dan kesusasteraan bahasa-bahasa lain.</td>                       
+                    </tr>
+
+                    <tr>
+                        <td>10</td>
+                        <td>900</td>
+                        <td>Geografi dan Sejarah Umum</td>         
+                        <td>geografi umum, sejarah umum, geografi umum perjalanan, biografi umum, silsilah, sejarah 
+dunia purba, sejarah umum asia, sejarah umum eropa, sejarah umum afrika, sejarah umum 
+amerika utara, sejarah umum amerika selatan, dan sejarah umum bagian lain dari bumi</td>               
+                    </tr>
+                </table>
+            </div>
+        </form>
+        
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

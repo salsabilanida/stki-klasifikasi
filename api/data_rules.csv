@@ -1,0 +1,554 @@
+Nomor Klasifikasi,Judul Buku
+000,ilmu pengetahuan umum
+000,buku
+000,sistem-sistem
+000,pengolahan data
+000,program komputer
+000,metode komputer khusus
+000,bibliografi umum
+000,bibliografi karya perorangan
+000,bibliografi kelompok pengarang khusus
+000,bibliografi karya anonim dan pseodonim
+000,bibliografi karya-karya wilayah
+000,bibliografi subyek
+000,katalog subyek umum
+000,katalog pengarang
+000,katalog bentuk kamus
+000,hubungan-hubungan perpustakaan
+000,gedung perpustakaan
+000,personalia perpustakaan
+000,pelayanan dan pengelolaan perpustakaan
+000,perpustakaan umum
+000,perpustakaan khusus
+000,ensiklopedi dalam bahasa Indonesia
+000,ensiklopedi dalam bahasa Inggris
+000,ensiklopedi dalam bahasa Jerman
+000,ensiklopedi dalam bahasa Perancis
+000,ensiklopedi dalam bahasa Italia
+000,ensiklopedi dalam bahasa Spanyol dan Portugis
+000,ensiklopedi dalam bahasa Slavia
+000,ensiklopedi dalam bahasa Skandinavia
+000,ensiklopedi dalam bahasa-bahasa lain
+000,terbitan berseri umum dalam bahasa Indonesia
+000,terbitan berseri umum dalam bahasa Inggris
+000,terbitan berseri umum dalam bahasa Jerman
+000,terbitan berseri umum dalam bahasa Perancis
+000,terbitan berseri umum dalam bahasa Italia
+000,terbitan berseri umum dalam bahasa Spanyol dan Portugis
+000,terbitan berseri umum dalam bahasa Slavia
+000,terbitan berseri umum dalam bahasa Skandinavia
+000,terbitan berseri umum dalam bahasa-bahasa lain
+000,organisasi umum dan museum di indonesia
+000,organisasi umum dan museum di inggris
+000,organisasi umum dan museum di jerman
+000,organisasi umum dan museum di perancis
+000,organisasi umum dan museum di italia
+000,organisasi umum dan museum di spanyol dan portugis
+000,organisasi umum dan museum di rusia dan eropa timur lain
+000,museologi
+000,jurnalisme surat kabar di indonesia
+000,jurnalisme surat kabar di inggris
+000,jurnalisme surat kabar di jerman
+000,jurnalisme surat kabar di perancis
+000,jurnalisme surat kabar di italia
+000,jurnalisme surat kabar di spanyol dan portugis
+000,jurnalisme surat kabar di rusia dan eropa timur lain
+000,jurnalisme surat kabar di skandinavia
+000,jurnalisme surat kabar di wilayah lain
+000,kumpulan karya umum dalam bahasa Indonesia
+000,kumpulan karya umum dalam bahasa Inggris
+000,kumpulan karya umum dalam bahasa Jerman
+000,kumpulan karya umum dalam bahasa Perancis
+000,kumpulan karya umum dalam bahasa Italia
+000,kumpulan karya umum dalam bahasa Spanyol dan Portugis
+000,kumpulan karya umum dalam bahasa Slavia
+000,kumpulan karya umum dalam bahasa Skandinavia
+000,kumpulan karya umum dalam bahasa-bahasa lain
+000,naskah-naskah (manuskrip)
+000,buku-buku blok
+000,inkunabula
+000,buku-buku bercetak
+000,buku-buku jilidan khusus
+000,buku-buku ilustrasi khusus
+000,buku-buku pemilik khusus atau asal mula
+000,"buku-buku terlarang, pemalsuan, penipuan"
+000,buku-buku format khusus
+100,teori filsafat
+100,aneka ragam filsafat
+100,"kamus, ensiklopedi dan konkordans"
+100,terbitan berseri (majalah)
+100,organisasi di bidang filsafat
+100,pendidikan dan peneitian dalam filsafat
+100,pengelolaan filsafat di antara kelompok-kelompok orang
+100,sejarah filsafat
+100,metafisika
+100,ontologi
+100,ruang
+100,waktu
+100,perubahan
+100,struktur
+100,gaya dan energi
+100,bilangan dan kuantitas
+100,epistemologi
+100,teori ilmu pengetahuan
+100,determinisme dan indeterminisme yang berkaitan
+100,teleologi
+100,diri dan kepribadian
+100,tidak sadar dan bawah sadar
+100,manusia
+100,asal mula dan nasib jiwa orang
+100,fenomena paranormal
+100,metode okultus untuk memperoleh sukses
+100,para psikologi dan okultisme
+100,mimpi dan misteri
+100,grafologi kedewaan
+100,fisiognomi
+100,frenologi
+100,idealisme
+100,filsafat kritis
+100,intuisionisme dan bergsonisme
+100,humanisme dan yang berkaitan
+100,sensasionalisme
+100,naturalisme dan yang berkaitan
+100,panteisme dan sistem-sistem
+100,"liberalisme, ekletisisme, tradisionalisme"
+100,psikologi
+100,"persepsi, gerakan dan emosi"
+100,proses mental dan inteligensi
+100,bawa sadar dan keadaan yang berubah
+100,psikologi diferensial dan perkembangan
+100,psikologi perbandingan
+100,psikologi terapan
+100,logika
+100,induksi
+100,deduksi
+100,kekeliruan dan sumber kesalahan
+100,silogisme
+100,hipotesa
+100,argumen dan persuasi
+100,analogi
+100,etika
+100,sistem dan doktrin
+100,etika politik
+100,etika hubungan keluarga
+100,etika ekonomi dan profesional
+100,etika di bidang rekreasi
+100,etika seksual
+100,etika hubungan sosial
+100,etika konsumsi
+100,filsafat timur
+100,filsafat yunani sebelum sokrates
+100,sofisme dan sokrates
+100,plato
+100,aristoteles
+100,skeptis dan neoplatonisme
+100,epikuria
+100,stoik
+100,filsafat barat abad pertengahan
+100,filsafat barat modern
+100,filsafat amerika serikat dan kanada
+100,filsafat inggris
+100,filsafat jerman dan austria
+100,filsafat perancis
+100,filsafat italia
+100,filsafat spanyol dan portugal
+100,filsafat rusia
+100,filsafat skandinavia
+100,filsafat wilayah lain
+100,filsafat kristiani
+200,aneka ragam kristiani
+200,kamus kristiani
+200,topik-topik khusus
+200,terbitan berseri kristiani
+200,organisasi kristiani
+200,"pendidikan, penelitian dalam kristiani"
+200,sejarah kristiani
+200,agama alam
+200,konsep tentang tuhan
+200,eksistensi dan sifat tuhan
+200,ciptaan
+200,teodisi
+200,baik dan jahat
+200,alkitab
+200,buku nabi
+200,kisah para rasul
+200,surat-surat rasul
+200,wahyu
+200,buku-buku apokrif
+200,teologi kristen
+200,Allah
+200,Yesus kristus
+200,makhluk-makhluk spiritual
+200,eskatologi
+200,moral kristen
+200,teologi kebaktian
+200,teologi moral
+200,bacaan-bacaan untuk ibadah
+200,penginjilan
+200,perabotan gereja
+200,khotbah
+200,naskah-naskah khotbah
+200,teologi pastoral
+200,jemaah
+200,kongregasi
+200,eklesiologi
+200,ibadah umum
+200,sakramen
+200,tata ibadah
+200,penyegaran rohani
+200,sejarah gereja
+200,sekte-sekte
+200,penganiayaan
+200,perbandingan agama
+200,agama yunani dan romawi kuno
+200,agama jermania
+200,agama-agama asal india
+200,zoroastrianisme
+200,agama yahudi
+200,agama islam
+200,kitab suci tripitaka
+200,agama budha (budhisme)
+200,agama hindu (hindunisme) termasuk brahmanisme
+200,kitab suci veda
+200,kitab suci al quran
+200,kumpulan ayat-ayat dan surat-surat tertentu
+200,ilmu hadis
+200,iman kepada allah
+200,iman kepada malaikat
+200,iman kepada kitab-kitab allah
+200,iman kepada nabi dan rasul
+200,iman kepada hari akhir
+200,iman kepada qada dan qadar
+200,fikih
+200,"ibadah salat, haji umroh, puasa, zakat, qurban"
+200,muamalat
+200,hukum waris (faraid)
+200,hukum pidana islam (jinayat)
+200,akhlak dan tasawuf
+200,"tarekat, doa dan wirid"
+200,falsafat dan dakwah islam
+200,ahlussunnah wal jamaah
+200,khulafaurrasyidin
+200,daulah amawiyah
+200,daulah abbasiyah
+300,ilmu-ilmu sosial
+300,sosiologi dan antropologi
+300,interaksi sosial
+300,proses-proses sosial
+300,faktor yang mempengaruhi tingkah laku sosial
+300,kelompok-kelompok sosial 
+300,kebudayaan dan kelembagaan
+300,"masyarakat, persekutuan hidup"
+300,statistik umum
+300,ilmu politik 
+300,sistem-sistem pemerintaham dan negara
+300,hubungan negara dengan kelompok-kelompok terorganisir
+300,hak-hak sipil dan politik
+300,proses-proses politik
+300,migrasi internasional
+300,perbudakan dan emansipasi perbudakan
+300,hubungan internasional 
+300,proses-proses legislatif
+300,ilmu ekonomi
+300,ekonomi perburuhan
+300,ekonomi keuangan
+300,ekonomi tanah
+300,koperasi
+300,sosialisme
+300,keuangan negara
+300,ekonomi internasional
+300,produksi dan industri 
+300,makroekonomi
+300,ilmu hukum
+300,hukum internasional
+300,hukum tata negara
+300,aneka ragam hukum publik
+300,hukum sosial
+300,hukum pidana
+300,hukum perdata
+300,hukum acara perdata dan pengadilan
+300,"undang-undang, peraturan-peraturan, perkara-perkara"
+300,hukum negara bangsa tertentu
+300,administrasi negara
+300,pemerintah pusat
+300,pemerintah lokal
+300,pemerintah pusat indonesia
+300,organisasi internasional
+300,ilmu kemiliteran
+300,infanteri
+300,kavaleri
+300,"pasukan berlapis baja, zeni angkatan darat, pasukan udara, angkatan laut"
+300,layanan sosial dan asosiasi
+300,kesejahteraan sosial
+300,masalah dan pelayanan sosial
+300,kriminologi
+300,penjara (lembaga pemasyarakatan)
+300,asuransi
+300,aneka ragam asosiasi
+300,"manajemen sekolah, pendidikan khusus"
+300,pendidikan dasar
+300,pendidikan lanjutan
+300,pendidikan orang dewasa
+300,kurikulum
+300,pendidikan kaum wanita
+300,sekolah dan agama
+300,pendidikan tinggi
+300,pendidikan dan negara
+300,perdagangan dalam negeri 
+300,perdagangan luar negeri
+300,komunikasi pos
+300,"sistem komunikasi, telekomunikasi"
+300,pengangkutan dengan kereta api
+300,pelayanan pedalaman dan ferry
+300,"pengangkutan laut, udara, ruang angkasa"
+300,pengangkutan jalan raya
+300,metrologi dan standarisasi
+300,adat istiadat dan kebiasaan
+300,kebiasaan yang berhubungan dengan kehidupan dan kehidupan berumah tangga
+300,kebiasaan yang berhubungan dengan kematian
+300,kebiasaan-kebiasaan umum
+300,etiket (sopan santun)
+300,etiket folklor
+300,kebiasaan dalam perang dan diplomasi
+400,bahasa linguistik
+400,sistem-sistem tulisan
+400,etimologi bahasa
+400,kamus bahasa
+400,fonologi 
+400,tata bahasa
+400,dialektologi
+400,penggunaan bahasa
+400,bahasa verbal
+400,bahasa indonesia
+400,bahasa bukan standar
+400,pemakaian bahasa baku
+400,bahasa-bahasa daerah
+400,bahasa inggris
+400,bahasa jerman
+400,bahasa perancis
+400,bahasa italia
+400,bahasa spanyol dan portugis
+400,bahasa latin
+400,bahasa yunani klasik
+400,bahasa-bahasa lain
+400,bahasa indo eropa timur
+400,bahasa afro asia
+400,bahasa hamitis dan chad
+400,bahasa ural altaik
+400,bahasa asia timur dan asia tenggara
+400,bahasa afrika
+400,bahasa pribumi amerika utara
+400,bahasa pribumi amerika selatan
+500,ilmu-ilmu murni
+500,"pengelolaan historis, wilayah"
+500,matematika
+500,aljabar
+500,ilmu hitung
+500,topologi
+500,analisis
+500,ilmu ukur
+500,probabilitas dan matematika terapan
+500,astronomi
+500,mekanika angkasa
+500,benda-benda angkasa khusus
+500,bumi
+500,geografi matematis
+500,navigasi angkasa
+500,kronologi
+500,fisika
+500,mekanika
+500,mekanika zat cair
+500,mekanika gas
+500,bunyi
+500,optik (cahaya)
+500,panas
+500,kelistrikan dan elektronika
+500,magnetisme
+500,fisika modern
+500,kimia fisik dan teoretis
+500,kimia analisis
+500,analisis kualitatif 
+500,analisis kuantitatif
+500,kimia anorganik
+500,kimia organik
+500,kristalografi
+500,mineralogi
+500,ilmu pengetahuan tentang bumi
+500,"geologi, meteorologi, hidrologi"
+500,petrologi
+500,paleontologi
+500,paleobotani
+500,fosil invertebrata
+500,fosil protozoa
+500,fosil moluska
+500,fosil vertebrata
+500,fosil burung
+500,fosil mamalia
+500,ilmu-ilmu tentang kehidupan
+500,ras manusia
+500,antropologi fisik
+500,biologi
+500,evolusi dan genetika
+500,mikrobiologi
+500,sifat umum dari kehidupan
+500,mikroskopi dalam biologi
+500,pengumpulan dan pengawetan
+500,ilmu tentang tumbuh-tumbuhan
+500,botani
+500,spermatofia
+500,dikotiledon
+500,monokotiledon
+500,tanaman berbiji telanjang
+500,tanaman tak berbiji
+500,pteridofita
+500,briofita
+500,tallofita
+500,ilmu tentang hewan
+500,zoologi
+500,invertebrata
+500,protozoa
+500,moluska
+500,vertebrata
+500,burung
+500,mamalia
+600,teknologi (ilmu terapan)
+600,ilmu kedokteran
+600,anatomi
+600,fisiologi
+600,kesehatan umum dan perorangan
+600,kesehatan masyarakat
+600,farmakologi dan ilmu terapi
+600,penyakit-penyakit
+600,pembedahan
+600,ginakologi dan kedokteran khusus
+600,kedokteran eksperimental
+600,ilmu teknik
+600,fisika terapan
+600,teknik pertambangan
+600,teknik militer dan nautika
+600,teknik sipil
+600,teknik jalan kereta api dan jalan raya
+600,teknik hidraulis
+600,teknik kesehatan
+600,pertanian
+600,hama pertanian
+600,tanaman ladang
+600,tanaman buah-buahan
+600,"holtikultura, sayur-sayuran"
+600,peternakan
+600,industri pengolahan susu
+600,pemeliharaan serangga
+600,"perburuan perikanan, konservasi"
+600,kesejahteraan rumah tangga
+600,makanan dan minuman
+600,penghidangan makanan
+600,rumah dan perlengkapan
+600,keperluan rumah tangga
+600,perabotan dan perhiasan
+600,"jahitan, pakaian"
+600,pengaturan rumah
+600,mengasuh anak dan merawat yang sakit
+600,manajemen
+600,pelayanan-pelayanan kantor
+600,proses komunikasi tertulis
+600,stenografi
+600,akuntansi
+600,periklanan dan hubungan masyarakat
+600,teknologi kimia
+600,teknologi bahan-bahan kimia industri
+600,"teknologi bahan peledak, bahan bakar"
+600,teknologi makanan dan minuman
+600,teknologi minyak dan lemak
+600,keramik
+600,teknologi pembersihan dan pemberian warna
+600,metalurgi
+600,pabrik-pabrik logam dan besi
+600,"kayu, gabus, dan teknologi"
+600,teknologi kulit
+600,teknologi bubur kayu dan kertas
+600,tekstil
+600,elastomer dan produk elastomer
+600,pembuatan produk untuk penggunaan khusus
+600,barang pandai besi
+600,alat logam besi dan alat rumah tangga
+600,perabotan rumah
+600,barang dari kulit dan kulit berbulu
+600,percetakan
+600,pembuatan pakaian
+600,barang-barang jadi dan teknologi mengepak
+600,bahan bangunan
+600,pekerjaan tambahan pada konstruksi
+600,"konstruksi kayu, pertukangan kayu"
+600,"pemanas, ventilasi, teknik pengatur udara"
+600,penyelesaian detail
+700,kesenian dan seni dekorasi
+700,aneka ragam kesenian
+700,gedung kesenian
+700,seni perkotaan dan pertamanan
+700,perencanaan wilayah
+700,arsitektur pertamanan
+700,pertamanan alam
+700,arsitektur
+700,konstruksi arsitektur
+700,"seni plastik, seni pahat patung"
+700,mengukir dan ukiran
+700,numismatik dan sigilografi
+700,seni keramik dan karya seni logam
+700,menggambar dan seni dekorasi
+700,gambar dan menggambar
+700,perspektif
+700,seni dekorasi dan seni sederhana
+700,seni dan kerajinan tangan tekstil
+700,seni lukis dan lukisan
+700,seni grafika dan cetakan
+700,cetak balok
+700,proses litografis
+700,seni ukir
+700,mengetsa
+700,fotografi dan foto
+700,musik vokal
+700,musik suara tunggal
+700,musik ruangan
+700,instrumen dan ensambel instrumental
+700,seni rekreasi dan pertunjukan
+700,teater
+700,permainan dan hiburan
+700,atletik dan olahraga luar
+700,olahraga air dan udara
+700,olahraga berkuda dan balapan hewan
+700,"olahraga menangkap ikan, memburu dan menembak"
+800,esai
+800,pidato
+800,surat-surat
+800,satir dan humor
+800,aneka ragam penulisan 
+800,kesusasteraan indonesia
+800,kesusasteraan bahasa daerah
+800,kesusasteraan inggris dan anglo saxon
+800,kesusasteraan jerman
+800,kesusasteraan italia
+800,kesusasteraan perancis
+800,kesusasteraan spanyol dan portugis
+800,kesusasteraan latin
+800,kesusasteraan yunani
+900,publikasi berseri
+900,sejarah dunia
+900,geografi umum perjalanan
+900,geografi historis
+900,penyajian grafis permukaan bumi
+900,geografi dunia kuno
+900,geografi asia
+900,geografi afrika
+900,geografi amerika utara dan amerika selatan
+900,biografi umum dan silsilah
+900,biografi ahli
+900,biografi ulama
+900,biografi seniman
+900,biografi sastrawan dan sejarawan
+900,silsilah dan nama-nama lencana
+900,sejarah dunia purba
+900,sejarah umum eropa
+900,sejarah umum asia
+900,sejarah umum afrika
+900,sejarah umum amerika utara dan amerika selatan
+900,sejarah umum bagian lain dari bumi 
